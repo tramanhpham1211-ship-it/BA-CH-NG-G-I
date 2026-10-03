@@ -1,0 +1,8 @@
+{
+  "name": "Remix BA CHÀNG GÁI — Sea Football",
+  "description": "5v5 WebGL 3D Sea Football online multiplayer game powered by WebSocket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
